@@ -1,0 +1,11 @@
+.service-container{
+    background-image: url('https://i.ibb.co/xzH2HFy/BG-9.jpg');
+    margin: 2%;
+    border-radius: 10px;
+    color: whitesmoke;
+    text-align: center;
+    box-shadow: 10px 30px 30px gray;
+}
+.cards{
+    padding: 3%;
+}

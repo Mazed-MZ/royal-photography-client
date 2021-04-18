@@ -1,0 +1,21 @@
+.manu-btn{
+    background-image: linear-gradient(160deg, darkslategrey, black);
+    padding: 3%;
+    height: 2000px;
+    text-align: right;
+}
+.manu-btn Button{
+    margin: 6%;
+    color: white;
+}
+#home-btn{
+    margin-bottom: 30%;
+}
+.manu-btn img{
+    margin-left: 15%;
+    width: 230px;
+    height: 155px;
+}
+.btn-padd{
+    margin-right: 5px;
+}

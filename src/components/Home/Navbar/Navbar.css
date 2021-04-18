@@ -1,0 +1,10 @@
+.nav-element li a{
+    font-size: 20px;
+    color: lightgray;
+}
+.nav-element li:hover{
+    border-radius: 8px;
+}
+.nav-element li a:hover{
+    color: white;
+}

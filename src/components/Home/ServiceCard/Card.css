@@ -1,0 +1,19 @@
+.service-card img{
+    width: 300px;
+    height: 200px;
+}
+.service-card{
+    color: whitesmoke;
+    background: black;
+    border-radius: 20px;
+    box-shadow: 10px 20px 20px black;
+}
+.title{
+    margin-top: 10%;
+}
+.service-card p{
+    color: gray;
+}
+.cards{
+    border-radius: 20px;
+}

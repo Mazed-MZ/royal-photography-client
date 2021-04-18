@@ -1,0 +1,19 @@
+.team-card{
+    background: lightgoldenrodyellow;
+    border-radius: 20px;
+    padding: 5%;
+}
+.team-card:hover{
+    box-shadow: 10px 30px 30px lightgray;
+}
+.team-card img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+.team-card h6{
+    color: brown;
+}
+.team-card p{
+    color: gray;
+}

@@ -1,0 +1,20 @@
+.main{
+    text-align: center;
+    padding: 5%;
+}
+#title-img{
+    width: 900px;
+    height: 300px;
+}
+#logo-img{
+    width: 700px;
+    height: 500px;
+}
+.main h3{
+    color: white;
+    text-align: center;
+}
+.main button{
+    margin-top: 1%;
+    width: 20%;
+}
