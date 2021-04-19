@@ -8,7 +8,7 @@ const List = () => {
 
     const [info, setInfo] = useState([]);
     useEffect(() => {
-        fetch('http://localhost:5000/services')
+        fetch('https://sleepy-brook-84902.herokuapp.com/services')
         .then(res => res.json())
         .then(data => setInfo(data))
     },[])

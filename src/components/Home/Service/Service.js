@@ -50,7 +50,7 @@ const serviceData = [
 const Service = () => {
 
     const handleServiceData = (crdData) =>{
-        fetch('http://localhost:5000/addService', {
+        fetch('https://sleepy-brook-84902.herokuapp.com/addService', {
             method: 'POST',
             headers: { 'content-type': 'application/json' },
             body: JSON.stringify(crdData)

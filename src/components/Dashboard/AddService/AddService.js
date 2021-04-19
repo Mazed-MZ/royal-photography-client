@@ -25,7 +25,7 @@ const AddService = () => {
         formData.append('price', info.price);
         formData.append('review', info.review);
 
-        fetch('http://localhost:5000/addNewService', {
+        fetch('https://sleepy-brook-84902.herokuapp.com/addNewService', {
             method: 'POST',
             body: formData
         })

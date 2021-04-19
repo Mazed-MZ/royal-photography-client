@@ -15,7 +15,7 @@ const Manu = () => {
     const [admin, setAdmin] = useState(false);
 
     useEffect(() => {
-        fetch('http://localhost:5000/admin', {
+        fetch('https://sleepy-brook-84902.herokuapp.com/admin', {
             method: 'POST',
             headers: { 'content-type': 'application/json' },
             body: JSON.stringify({ email: loginUser.email })
